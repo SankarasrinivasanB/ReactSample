@@ -1,1 +1,1 @@
-Hi This is Srini
+Hi This is React Sample Project
